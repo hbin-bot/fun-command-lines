@@ -17,4 +17,3 @@ osascript -e 'tell application "iCal" to make new event at end of calendar 1 wit
 
 Improvement: can we specify which calendar and make it more user friendly?
 
-Test
